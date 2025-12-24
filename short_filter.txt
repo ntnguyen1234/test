@@ -4,5 +4,5 @@
 ! Homepage: https://github.com/ntnguyen1234/test
 !
 
-github.com,space.com,adguard.com#%#alert('TEST RULE');
+github.com,space.com,adguard.com#%#//scriptlet('set-constant', 'test', 'true')
 *$script,stylesheet,domain=github.com|space.com|adguard.com
