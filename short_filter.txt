@@ -1,0 +1,8 @@
+! Title: Short filter
+! Expires: 8 hours
+! Last modified: 2025.12.24
+! Homepage: https://github.com/ntnguyen1234/test
+!
+
+github.com,space.com,adguard.com#%#alert('TEST RULE');
+*$script,styesheet,domain=github.com|space.com|adguard.com
