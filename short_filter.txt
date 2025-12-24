@@ -5,4 +5,4 @@
 !
 
 github.com,space.com,adguard.com#%#alert('TEST RULE');
-*$script,styesheet,domain=github.com|space.com|adguard.com
+*$script,stylesheet,domain=github.com|space.com|adguard.com
